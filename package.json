@@ -1,0 +1,25 @@
+{
+  "name": "roseluu-object-oriented-programming-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoseLuu/roseluu-Object-Oriented-Programming-Team-Profile-Generator.git"
+  },
+  "author": "Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoseLuu/roseluu-Object-Oriented-Programming-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/RoseLuu/roseluu-Object-Oriented-Programming-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}

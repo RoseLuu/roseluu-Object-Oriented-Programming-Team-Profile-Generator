@@ -158,8 +158,7 @@ function engineerInput() {
 //create a function for html file
 function printTeam() {
     const html = [];
-    const startHtml = `
-        <!DOCTYPE html>
+    const startHtml = `<!DOCTYPE html>
          <html lang="en">
        <head>
        <meta charset="UTF-8">

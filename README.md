@@ -21,11 +21,8 @@
   # Installation
   User have to install:
   * [Node.js](https://nodejs.org/en/download/)
-  * After that run command
-  ```
-  npm i
-  ```
-  to install inquirer and jest
+  * Inquirer
+  * jest
 
   # Technologies
   * JavaScript
@@ -33,7 +30,15 @@
   * Bootstrap
 
   # Usage
-  Clone this repo and navigate to the index.js file. Run this command:
+  Clone this repo and run command
+  ```
+  npm i
+  ```
+  to install inquirer and jest
+
+  <br />
+
+  Navigate to the index.js file. Run this command:
   ```
   node index.js
   ```

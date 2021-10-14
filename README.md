@@ -1,6 +1,6 @@
 # roseluu-Object-Oriented-Programming-Team-Profile-Generator
 
-   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/#)
+ [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/#)
 
   # Table of Contents 
   * [Installation](#installation)
@@ -11,6 +11,10 @@
   * [Test](#test)
   * [Questions](#questions)
  
+ # Walkthrough video link : 
+  
+  [Instructor Video](https://drive.google.com/file/d/1mrXOXIpgpZ21ahcyaAdKBq_3JOctLiw9/view)
+  
   # Description
   This project will help user to built a team with Node.js. The team will have only one Manager with multiple Intern and Engineer. The answer will be generated to HTML file.
 
